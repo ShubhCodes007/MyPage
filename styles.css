@@ -1,0 +1,38 @@
+body{
+  margin: 0;
+  text-align: center;
+
+}
+h1{
+  margin: 0;
+  color: #66bfbf;
+  font-size: 80px;
+  margin-top: 30px;
+  font-family: 'Sacramento', cursive;
+
+}
+h2{
+  color: #66bfbf;
+}
+h3{
+  color: #11999E;
+}
+div{
+  background-color: #C2FFF9;
+  padding-top: 100px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 350px;
+}
+.top-cloud{
+  position: relative;
+  left: 170px;
+  bottom: 10px;
+}
+.table1{
+  margin-left: 460px;
+}
+.table2{
+  margin-left: 460px;
+}
